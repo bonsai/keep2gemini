@@ -1,0 +1,15 @@
+.gemini-send-button {
+  margin-top: 10px;
+  background-color: #4285F4;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-size: 14px;
+  cursor: pointer;
+  display: block;
+}
+
+.gemini-send-button:hover {
+  background-color: #3367D6;
+}
